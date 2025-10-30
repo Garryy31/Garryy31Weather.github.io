@@ -60,7 +60,7 @@ Copy code
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone (https://github.com/Garryy31/Garryy31Weather.github.io.git)
 Navigate to the project directory
 
 bash
